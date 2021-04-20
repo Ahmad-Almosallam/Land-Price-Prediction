@@ -1,5 +1,5 @@
 # Land-Price-Prediction
-
+## [Try model](https://ahmad-almosallam.github.io/Machine-Learning-projects/)
 This [dataset](https://www.kaggle.com/hussainalqatari/land-market-in-saudi-arabia) has been scrapped off sa.aqar.fm to obtain land information such as price,
 size, street width, and locations. The uncleaned dataset scrapped 2952 rows. The majority of the data is unfortunately lands based in Riyadh,
 but there are a good number of lands in Jeddah and Khobar.
